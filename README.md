@@ -2,4 +2,4 @@
 Discord bot source code
 
 
-JOIN MY DISCORD discord.me/PRZ
+JOIN MY DISCORD discord.me/Nonsence
